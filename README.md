@@ -131,5 +131,4 @@ This project is currently intended as a personal/development project.
 ---
 
 **News Intelligence Pulse — Stay informed. Stay ahead.**
-├── West Bengal
-└── Other Indian States
+
