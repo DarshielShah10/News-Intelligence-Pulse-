@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://www.linkedin.com/posts/adonisaz_ai-pulse-real-time-ai-news-intelligence-activity-7448687265305817088-9E-0" />
+<img src="./docs/screenshots/pulse-dashboard.png" alt="PULSE AI Dashboard" width="100%">
 
   <h1>Built with AI Studio</h2>
 
