@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/screenshots/pulse-dashboard.png" alt="PULSE AI Dashboard" width="100%">
+<img ="./docs/screenshots/pulse-dashboard.png" alt="PULSE AI Dashboard" width="100%">
 
   <h1>Built with AI Studio</h2>
 
