@@ -1,0 +1,6 @@
+{
+  "name": "Personal News Intelligence",
+  "description": "AI-powered real-time personal news intelligence dashboard providing personalized, multi-source verified, deduplicated daily news feeds, state-wise news, timelines, and 5-minute briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
