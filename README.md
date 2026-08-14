@@ -86,23 +86,6 @@ users can simply open PULSE AI and see:
 PULSE AI is designed to provide multiple levels of coverage:
 
 ```text
-## 👨‍💻 Author
-
-**Darshiel Shah**
-
-Computer Science & Engineering — Data Science
-
-GitHub: [@DarshielShah10](https://github.com/DarshielShah10)
-
----
-
-## 📄 License
-
-This project is currently intended as a personal/development project.
-
----
-
-**News Intelligence Pulse — Stay informed. Stay ahead.**
 WORLD
 │
 ├── Global News
@@ -130,5 +113,23 @@ STATE
 ├── Karnataka
 ├── Delhi
 ├── Rajasthan
+
+## 👨‍💻 Author
+
+**Darshiel Shah**
+
+Computer Science & Engineering — Data Science
+
+GitHub: [@DarshielShah10](https://github.com/DarshielShah10)
+
+---
+
+## 📄 License
+
+This project is currently intended as a personal/development project.
+
+---
+
+**News Intelligence Pulse — Stay informed. Stay ahead.**
 ├── West Bengal
 └── Other Indian States
