@@ -14,7 +14,7 @@ PULSE AI is designed for people who want to stay updated but struggle to dedicat
 
 ## ✨ Key Features
 
-### Global News
+###  Global News
 Stay updated with important developments from around the world across politics, technology, science, business, geopolitics, sports, and more.
 
 ### 🇮🇳 India News
@@ -26,7 +26,7 @@ Select an Indian state and receive news specifically relevant to that region.
 ###  Breaking & Developing News
 Identify important breaking events and follow developing stories as they evolve.
 
-### 🤖 AI-Powered News Intelligence
+###  AI-Powered News Intelligence
 AI helps organize and summarize complex news so users can understand the key information quickly.
 
 ###  Real-Time Updates
